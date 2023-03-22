@@ -1,0 +1,15 @@
+D:\VSProjects\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.exe
+D:\VSProjects\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.deps.json
+D:\VSProjects\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.runtimeconfig.json
+D:\VSProjects\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.dll
+D:\VSProjects\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.pdb
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.csproj.AssemblyReference.cache
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.AssemblyInfoInputs.cache
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.AssemblyInfo.cs
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.csproj.CoreCompileInputs.cache
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.dll
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\refint\Giraffe.dll
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.pdb
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.genruntimeconfig.cache
+D:\VSProjects\Giraffe\Giraffe\obj\Debug\net6.0\ref\Giraffe.dll
