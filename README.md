@@ -5,4 +5,4 @@
 *Systems failing, circuits breaking*\
 *Doomsday's here, no mistaking*\
 *The Matrix crumbles, we fall apart*\
-*Fading away, from the world's heart*\
+*Fading away, from the world's heart*
